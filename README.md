@@ -35,10 +35,3 @@ stub or dead code, and what a result does and does not prove.
 
 **Other**
 - [ObserverRealityEngine](https://github.com/xgfhh0x11/ObserverRealityEngine) — observation-driven state-machine library (Python)
-
----
-
-## Contact
-
-<!-- Replace or remove. -->
-> _TODO: email / LinkedIn / website._
