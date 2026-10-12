@@ -2,13 +2,12 @@
 
 <!-- =========================================================
      PERSONAL STATEMENT — replace this block with your own text.
-     Neutral draft below; edit freely before the HBO reviewers read it.
+     Neutral draft below; edit freely to make it your own.
      ========================================================= -->
 Low-level security researcher focused on Windows kernel internals,
 hardware-assisted mitigations, and microarchitectural side channels.
 
-> _TODO: 2-3 sentences — who you are, what drives this work, and your
-> motivation for the NL HBO programme._
+> _TODO: 2-3 sentences — who you are and what drives this work._
 
 ---
 
