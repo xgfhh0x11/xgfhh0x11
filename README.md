@@ -6,8 +6,9 @@
      ========================================================= -->
 Low-level security researcher focused on Windows kernel internals,
 hardware-assisted mitigations, and microarchitectural side channels.
-
-> _TODO: 2-3 sentences — who you are and what drives this work._
+My work also draws on analytic philosophy, structural and discrete
+mathematics, and formal methods — in particular the formal verification
+of formal and low-level systems.
 
 ---
 
